@@ -75,19 +75,19 @@ The application uses a centralized navigation structure consisting of:
 
 ### Home / Navigation
 
-![Home](screenshots/home.png)
+![Home](Screenshots/Home.jpeg)
 
 ### Complaint Form
 
-![Complaint Form](screenshots/laporan.png)
+![Complaint Form](Screenshots/Complaint Form.jpeg)
 
 ### Feedback Form
 
-![Feedback Form](screenshots/masukan.png)
+![Feedback Form](Screenshots/Feedback Form.jpeg)
 
 ### FAI Filantropi
 
-![FAI Filantropi](screenshots/filantropi.png)
+![FAI Filantropi](Screenshots/Philantropy Form.jpeg)
 
 ## Disclaimer
 
