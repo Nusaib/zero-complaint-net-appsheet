@@ -79,15 +79,15 @@ The application uses a centralized navigation structure consisting of:
 
 ### Complaint Form
 
-![Complaint Form](Screenshots/Complaint Form.jpeg)
+![Complaint Form](Screenshots/Complaint_Form.jpeg)
 
 ### Feedback Form
 
-![Feedback Form](Screenshots/Feedback Form.jpeg)
+![Feedback Form](Screenshots/Feedback_Form.jpeg)
 
 ### FAI Filantropi
 
-![FAI Filantropi](Screenshots/Philantropy Form.jpeg)
+![FAI Filantropi](Screenshots/Philantropy_Form.jpeg)
 
 ## Disclaimer
 
