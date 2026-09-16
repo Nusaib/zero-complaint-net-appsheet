@@ -1,6 +1,6 @@
 # Zero Complaint Net
 
-A mobile-friendly no-code application developed using Google AppSheet to support complaint, feedback, and philanthropy-related workflows for BEM FAI UMY.
+A mobile-friendly no-code application developed using Google AppSheet for BEM FAI UMY.
 
 ## Project Information
 
@@ -8,18 +8,22 @@ A mobile-friendly no-code application developed using Google AppSheet to support
 - **Date:** May 2025
 - **Client:** BEM FAI UMY
 - **Platform:** Google AppSheet
-- **Role:** AppSheet Developer / System Designer
+- **Role:** Freelance Developer · Application Design
 
 ## Overview
 
-Zero Complaint Net is a no-code application designed to provide a centralized platform for students to submit complaints and feedback, while also providing access to the FAI Filantropi donation program.
+Zero Complaint Net is an application developed for BEM FAI UMY and managed by the Department of Student Welfare (Departemen Kesejahteraan Mahasiswa).
 
-The application was designed to organize several submission workflows into a single mobile-friendly application.
+The application serves as a platform to collect and monitor student complaints and aspirations, particularly those related to student welfare within the Faculty of Islamic Studies.
+
+The application also provides access to the FAI Filantropi donation program.
 
 ## Main Features
 
 ### 1. Complaint Submission
+
 Students can submit complaints through a structured form containing:
+
 - Name
 - Study Program
 - Complaint Type
@@ -27,7 +31,9 @@ Students can submit complaints through a structured form containing:
 - Attachment
 
 ### 2. Feedback Submission
+
 A dedicated form allows students to submit feedback with:
+
 - Name
 - Study Program
 - Feedback Type
@@ -35,9 +41,11 @@ A dedicated form allows students to submit feedback with:
 - Attachment
 
 ### 3. FAI Filantropi
+
 Provides information about the FAI Filantropi donation program and a dedicated donation submission form.
 
-The form includes:
+The donation form includes:
+
 - Name
 - Study Program
 - Donation Amount
@@ -45,7 +53,8 @@ The form includes:
 
 ### 4. Application Navigation
 
-The application uses a centralized navigation structure consisting of:
+The application provides centralized navigation for:
+
 - Home
 - Laporan
 - Masukan
@@ -55,12 +64,12 @@ The application uses a centralized navigation structure consisting of:
 
 ## My Contribution
 
-- Designed the overall application structure and navigation.
-- Translated the client's requirements into structured application workflows.
-- Designed and configured data-entry forms for complaints, feedback, and donations.
+- Designed the application structure and navigation.
+- Translated project requirements into structured application workflows.
+- Designed and configured forms for complaints, feedback, and donations.
 - Configured AppSheet views and user-facing interfaces.
 - Structured required fields and submission flows.
-- Tested the application flow and form functionality.
+- Tested application flows and form functionality.
 - Implemented application branding based on the client's organization.
 
 ## Tools & Technologies
@@ -70,6 +79,7 @@ The application uses a centralized navigation structure consisting of:
 - No-Code Application Development
 - Workflow Design
 - Data Collection & Form Design
+- User Interface Configuration
 
 ## Screenshots
 
@@ -88,6 +98,14 @@ The application uses a centralized navigation structure consisting of:
 ### FAI Filantropi
 
 ![FAI Filantropi](Screenshots/Philantropy_Form.jpeg)
+
+### About
+
+![About](Screenshots/About.jpeg)
+
+## Project Context
+
+The application supports BEM FAI UMY's student welfare initiatives by providing a centralised digital channel for complaints, feedback, and related student support activities.
 
 ## Disclaimer
 
