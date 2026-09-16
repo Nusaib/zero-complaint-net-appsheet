@@ -101,7 +101,7 @@ The application provides centralized navigation for:
 
 ### About
 
-![About](Screenshots/About.jpeg)
+![About](Screenshots/About_App.jpeg)
 
 ## Project Context
 
